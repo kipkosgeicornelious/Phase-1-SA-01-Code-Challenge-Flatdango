@@ -1,0 +1,124 @@
+body {
+    background-color:aqua;
+}
+
+
+h1 {
+    font-family: 'Nosifer', cursive;
+    color: white;
+    position: relative;
+    text-align: center;
+
+}
+
+h3 {
+    color: white;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+#terms {
+    color: white;
+    font-size: 15px;
+    margin-left: 15px;
+    position: relative;
+
+}
+
+#film-menu{
+    
+    cursor: pointer;
+    display: flex;
+    height: 400px;
+    position: relative;
+    margin-left: 550px;
+    color: white;
+    
+   
+}
+
+#film-details {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+}
+
+#run {
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+}
+#show {
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+}
+
+#available {
+    text-align: center;
+    font-family: 'Zen Dots', cursive;
+}
+
+#runtime {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#showtime {
+    text-align: center;
+    color: white;
+    font-size: 20px
+}
+
+#Available-tickets {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+#sell {
+    text-align: center;
+    margin-left: 605px;
+    position: relative;
+    padding: 16px 22px ;
+    border: none;
+    cursor: pointer;
+    font-family: 'Zen Dots', cursive;
+    
+
+}
+#film {
+    height: 100%; 
+    width: 300px; 
+    position: fixed; 
+    z-index: 1;
+    top: 0; 
+    left: 0;
+    background-color:aqua ;
+    padding-top: 60px; 
+    transition: 0.5s; 
+    float: left;
+}
+
+#film-item{
+    color: white;
+    float: left;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+
+#heading {
+    font-size: 20px;
+    color: white;
+    margin-left: 30px;
+    margin-top: -25px;
+    font-family: 'Permanent Marker', cursive;
+}
